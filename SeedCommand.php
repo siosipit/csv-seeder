@@ -12,7 +12,7 @@ class SeedCommand extends Command
      *
      * @var string
      */
-    protected $name = 'cl:seed';
+    protected $name = 'me:seed';
 
     /**
      * The console command description.
